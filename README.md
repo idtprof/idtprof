@@ -22,6 +22,15 @@ Teaching programming, Linux, web technologies, and cybersecurity while building 
 
 ---
 
+## About
+
+Most projects here are experiments, teaching materials, automation ideas, or ongoing works in progress.
+
+Some are polished.  
+Some are held together with shell scripts and optimism.
+
+---
+
 ## Projects
 
 ### paco.io
@@ -39,4 +48,4 @@ Hands-on curriculum and lab environments for CIT students.
 
 Technology should be practical, approachable, and useful.
 
-Still believes the old web was better.
+Still building websites like it's 1999, just with better CSS and Git.
