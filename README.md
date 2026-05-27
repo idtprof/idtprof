@@ -33,14 +33,20 @@ Some are held together with shell scripts and optimism.
 
 ## Projects
 
-### paco.io
+### [paco.io](https://paco.io)
 Personal portal, web experiments, and curated resources.
 
-### firg.xyz
+### [firg.xyz](https://firg.xyz)
 Static-site and GitHub Pages experimentation.
 
 ### Course Development
 Hands-on curriculum and lab environments for CIT students.
+
+Selected repositories:
+- Kotlin programming examples
+- Linux administration labs
+- GitHub Pages templates
+- Automation and workflow experiments
 
 ---
 
